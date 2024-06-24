@@ -2,4 +2,4 @@ just 21 years old developer. high functioning developer but mostly experienced i
 
 eee student. 
 
-![](https://komarev.com/ghpvc/?username=koply&style=for-the-badge&color=orange)
+![](https://komarev.com/ghpvc/?username=koply&color=orange)
