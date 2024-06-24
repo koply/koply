@@ -1,3 +1,5 @@
-just 20 years old developer. mostly experienced in java and c. 
+just 21 years old developer. high functioning developer but mostly experienced in java and c. 
 
 eee student. 
+
+![](https://komarev.com/ghpvc/?username=koply&style=for-the-badge&color=orange)
